@@ -65,9 +65,7 @@ Career Services:
 
 ### Week 5
 
-*   Spring Boot
-*   HTML
-*   MVC
+*   TBD
 
 Career Services: Lunch 'n Learn Presentation with Jeremy Clark on TDD
 
@@ -76,8 +74,7 @@ Career Services: Lunch 'n Learn Presentation with Jeremy Clark on TDD
 
 ### Week 6
 
-*   CSS
-*   Flexbox/Grid
+*   TBD
 
 Career Services: Apex Systems: Resume Reviews on Friday
 
@@ -85,9 +82,7 @@ Career Services: Apex Systems: Resume Reviews on Friday
 
 ### Week 7
 
-*   Relational Databases and Design
-*   Relational Databases and SQL
-*   Java Persistence API (Spring Data)
+*   TBD
 
 Career Services:
 
@@ -95,9 +90,7 @@ Career Services:
 
 ### Week 8
 
-*   JavaScript/jQuery
-*   AJAX, JSON, and RESTful APIs
-*   Pair Programming (w/ Git/GitHub)
+*   TBD
 
 Career Services:
 
@@ -105,7 +98,21 @@ Career Services:
 
 ### Week 9
 
-*   Flex Week
+*   TBD
+
+Career Services: TBD
+
+### Week 10
+
+*   TBD
+
+Career Services: TBD
+
+### Week 11
+
+*   TBD
+
+Career Services: TBD
 
 ### Week 12-14
 
