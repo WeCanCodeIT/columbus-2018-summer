@@ -123,7 +123,7 @@ Career Services: TBD
 
 # Important Dates
 
-Demo Day & Graduation: April 20, 2018
+Demo Day & Graduation: August 24, 2018
 
 # Attendance Policy
 
@@ -164,7 +164,7 @@ In addition to the required text, this and other We Can Code IT repositories wil
 
 ## Required Textbook
 
-*   Sierra, Kathy and Bates, Bert. [_Head First Java, Second Edition_](http://www.headfirstlabs.com/books/hfjava/). O'Reilly Media, 2005.
+*   Sierra, Kathy and Bates, Bert. [Head First Java, **_Second Edition_**](http://www.headfirstlabs.com/books/hfjava/). O'Reilly Media, 2005.
 
 ## Suggested Textbook
 
