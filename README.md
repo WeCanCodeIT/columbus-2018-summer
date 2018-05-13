@@ -1,6 +1,6 @@
 # Columbus 2018 Summer Cohort
 
-Welcome to this Full Time Java Full Stack Coding Bootcamp running from May 14 - August 24.
+Welcome to your Full Stack Java Coding Bootcamp running from May 14 - August 24.
 
 # Curriculum Overview
 
