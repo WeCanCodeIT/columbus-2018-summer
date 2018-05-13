@@ -32,7 +32,7 @@ Career Services:
 *   Arrays
 *   Loops
 *   Intro to OOP
-*   Building Classes - Methods and Attributes
+*   Building Classes - Methods and Properties
 *   Unit Testing/TDD (Junit)\*
 
 Career Services: Headshots on Friday
