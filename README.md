@@ -13,7 +13,7 @@ Welcome to this Full Time Java Full Stack Coding Bootcamp running from May 14 - 
 
 # Weekly Breakdown
 
-### Week 1
+### [Week 1](./week-1/README.md)
 
 *   The File System
 *   Variables, Operators, Expressions, Basic Types
