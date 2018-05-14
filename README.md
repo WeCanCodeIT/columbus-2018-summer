@@ -13,7 +13,7 @@ Welcome to your Full Stack Java Coding Bootcamp running from May 14 - August 24.
 
 # Weekly Breakdown
 
-### [Week 1](./week-1/README.md)
+### Week 1
 
 *   The File System
 *   Variables, Operators, Expressions, Basic Types
@@ -32,7 +32,7 @@ Career Services:
 *   Arrays
 *   Loops
 *   Intro to OOP
-*   Building Classes - Methods and Properties
+*   Building Classes - Methods and Attributes
 *   Unit Testing/TDD (Junit)\*
 
 Career Services: Headshots on Friday
@@ -44,8 +44,6 @@ Career Services: Headshots on Friday
 *   Collections Overview (\*Iterables/Iterators)
 *   Lists
 *   Maps
-*   Inheritance & Polymorphism
-*   Encapsulation
 
 Career Services:
 
@@ -56,7 +54,8 @@ Career Services:
 
 *   Dependency Injection/Spring
 *   Test Doubles (Mockito)\*
-*   Exceptions
+*   Inheritance & Polymorphism
+*   Encapsulation
 *   Build Automation with Gradle\*
 
 Career Services:
@@ -65,7 +64,10 @@ Career Services:
 
 ### Week 5
 
-*   TBD
+*   Spring
+*   Dependency Injection & Mockito
+*   HTML/Thymeleaf
+*   API Development
 
 Career Services: Lunch 'n Learn Presentation with Jeremy Clark on TDD
 
@@ -74,7 +76,10 @@ Career Services: Lunch 'n Learn Presentation with Jeremy Clark on TDD
 
 ### Week 6
 
-*   TBD
+*   CSS Styling
+*   CSS Layouts
+*   Intro to JS/JS Testing
+*   AJAX
 
 Career Services: Apex Systems: Resume Reviews on Friday
 
@@ -82,7 +87,9 @@ Career Services: Apex Systems: Resume Reviews on Friday
 
 ### Week 7
 
-*   TBD
+*   Databases
+*   Persistence & MVC
+*   More API Development
 
 Career Services:
 
@@ -90,7 +97,8 @@ Career Services:
 
 ### Week 8
 
-*   TBD
+*   Advanced CSS Layout Tools
+*   Advanced JS techniques
 
 Career Services:
 
@@ -98,15 +106,21 @@ Career Services:
 
 ### Week 9
 
-*   TBD
+*   Optionals
+*   Java 8
+*   Functional Java Intro
 
 ### Week 10
 
-*   TBD
+*   Fluent APIs
+*   DOM Manipulation
+*   Functional JS
 
 ### Week 11
 
-*   TBD
+*   Flex Week
+*   White-boarding
+*   Final Project Pitches
 
 ### Week 12-14
 
