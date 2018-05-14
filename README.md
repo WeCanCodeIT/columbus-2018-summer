@@ -44,8 +44,6 @@ Career Services: Headshots on Friday
 *   Collections Overview (\*Iterables/Iterators)
 *   Lists
 *   Maps
-*   Inheritance & Polymorphism
-*   Encapsulation
 
 Career Services:
 
@@ -56,7 +54,8 @@ Career Services:
 
 *   Dependency Injection/Spring
 *   Test Doubles (Mockito)\*
-*   Exceptions
+*   Inheritance & Polymorphism
+*   Encapsulation
 *   Build Automation with Gradle\*
 
 Career Services:
