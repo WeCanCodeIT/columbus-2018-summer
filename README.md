@@ -13,7 +13,7 @@ Welcome to your Full Stack Java Coding Bootcamp running from May 14 - August 24.
 
 # Weekly Breakdown
 
-### Week 1
+### [Week 1](./week-1/README.md)
 
 *   The File System
 *   Variables, Operators, Expressions, Basic Types
