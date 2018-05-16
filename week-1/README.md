@@ -73,13 +73,13 @@
 ### References
 
 *   [Conditionals Student Guide](https://wecancodeit.github.io/java-resources/fundamentals/conditionals-and-user-input/)
-*   [Reading Console Input slides](https://wecancodeit.github.io/java-slides/fundamentals/reading-console-input/)
 *   [Oracle Java Tutorial, The if-then and if-then-else Statements](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/if.html)
 *   [Oracle Java Tutorial, The switch Statement](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/switch.html)
 
 ### Slides
 
 *   [Conditionals](https://wecancodeit.github.io/java-slides/fundamentals/conditionals/)
+*   [Reading Console Input slides](https://wecancodeit.github.io/java-slides/fundamentals/reading-console-input/)
 
 ## Day 4
 
