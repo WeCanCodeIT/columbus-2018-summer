@@ -27,7 +27,7 @@ Career Services:
 *   [Elevator Pitch](https://wecancodeit.github.io/SST-Slides/career-services/elevator-pitch/#/)
 *   [Homework: Opportunity Characteristics Inventory](https://wecancodeit.github.io/SST-Slides/career-services/opi/#/)
 
-### Week 2
+### [Week 2](./week-2/README.md)
 
 *   Arrays
 *   Loops
