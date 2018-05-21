@@ -24,8 +24,8 @@ Welcome to your Full Stack Java Coding Bootcamp running from May 14 - August 24.
 
 Career Services:
 
-*   [Elevator Pitch](https://github.com/WeCanCodeIT/columbus-2018-spring/blob/master/Career-Services/Elevator-Pitch.md)
-*   [Homework: Opportunity Characteristics Inventory](https://github.com/WeCanCodeIT/columbus-2018-spring/blob/master/Career-Services/Opportunity-Characteristics-Inventory.md)
+*   [Elevator Pitch](https://wecancodeit.github.io/SST-Slides/career-services/elevator-pitch/#/)
+*   [Homework: Opportunity Characteristics Inventory](https://wecancodeit.github.io/SST-Slides/career-services/opi/#/)
 
 ### Week 2
 
@@ -35,20 +35,11 @@ Career Services:
 *   Building Classes - Methods and Attributes
 *   Unit Testing/TDD (Junit)\*
 
-Career Services: Headshots on Friday
-
-*   [Resume Workshop (Includes Homework Details)](https://github.com/WeCanCodeIT/columbus-2018-spring/blob/master/Career-Services/Resume-Workshop.md)
-
 ### Week 3
 
 *   Collections Overview (\*Iterables/Iterators)
 *   Lists
 *   Maps
-
-Career Services:
-
-*   [LinkedIn Profile Workshop (Includes Homework Details)](https://github.com/WeCanCodeIT/columbus-2018-spring/blob/master/Career-Services/LinkedIn-Profile-Checklist.md)
-*   [Social Media Etiquette (Self Study)](https://github.com/WeCanCodeIT/columbus-2018-spring/blob/master/Career-Services/Social-Media-Etiquette-SelfStudy.md)
 
 ### Week 4
 
@@ -58,21 +49,12 @@ Career Services:
 *   Encapsulation
 *   Build Automation with Gradle\*
 
-Career Services:
-
-*   [Inbound Self-Marketing & Branding](https://github.com/WeCanCodeIT/columbus-2018-spring/blob/master/Career-Services/Inbound-Self-Marketing-And-Branding.md)
-
 ### Week 5
 
 *   Spring
 *   Dependency Injection & Mockito
 *   HTML/Thymeleaf
 *   API Development
-
-Career Services: Lunch 'n Learn Presentation with Jeremy Clark on TDD
-
-*   Getting Started with Open Source (Lunch 'n Learn Presentation with CoverMyMeds)
-*   [Additional Open Source Resources](https://github.com/WeCanCodeIT/columbus-2018-spring/blob/master/Career-Services/Open-Source-References.md)
 
 ### Week 6
 
@@ -81,28 +63,16 @@ Career Services: Lunch 'n Learn Presentation with Jeremy Clark on TDD
 *   Intro to JS/JS Testing
 *   AJAX
 
-Career Services: Apex Systems: Resume Reviews on Friday
-
-*   [Informational Interviews via LinkedIn Messaging](https://github.com/WeCanCodeIT/columbus-2018-spring/blob/master/Career-Services/Informational-Interviews-via-LinkedIn-Messaging.md)
-
 ### Week 7
 
 *   Databases
 *   Persistence & MVC
 *   More API Development
 
-Career Services:
-
-*   [Behavioral Interviews](https://github.com/WeCanCodeIT/columbus-2018-spring/blob/master/Career-Services/Behavioral-Interviews.md)
-
 ### Week 8
 
 *   Advanced CSS Layout Tools
 *   Advanced JS techniques
-
-Career Services:
-
-*   [How to Talk About Projects](https://github.com/WeCanCodeIT/columbus-2018-spring/blob/master/Career-Services/HowToTalkAboutProjects.md)
 
 ### Week 9
 
