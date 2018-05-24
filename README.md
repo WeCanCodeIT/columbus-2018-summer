@@ -35,6 +35,10 @@ Career Services:
 *   Building Classes - Methods and Attributes
 *   Unit Testing/TDD (Junit)\*
 
+Career Services:
+
+*  [Resume Workshop](https://wecancodeit.github.io/SST-Slides/career-services/resumes/#/)
+
 ### Week 3
 
 *   Collections Overview (\*Iterables/Iterators)
