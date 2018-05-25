@@ -72,7 +72,6 @@
 
 *   [Arrays Student Guide](https://wecancodeit.github.io/java-resources/fundamentals/arrays/)
 *   [Oracle Java Tutorial, Arrays](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)
-*   [Constructors](https://wecancodeit.github.io/java-slides/objects/constructors/)
 
 ### Slides
 
@@ -102,6 +101,7 @@
 
 ### Slides
 
+*   [Constructors](https://wecancodeit.github.io/java-slides/objects/constructors/)
 *   [TDD](https://wecancodeit.github.io/java-slides/testing/tdd-intro/#/)
 
 ## Day 5
