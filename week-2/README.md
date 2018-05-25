@@ -106,6 +106,6 @@
 
 ## Day 5
 
-Weekly Graded Exercise: Coming Soon
+Weekly Graded Exercise: [Virtual Pet](https://github.com/WeCanCodeIT/java-exercises/tree/master/virtual-pet)
 
 Due Monday, 9:30 AM: [Submission Link Coming Soon]
