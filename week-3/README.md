@@ -18,8 +18,11 @@
 
 ### References
 
-*   [ArrayLists](https://wecancodeit.github.io/java-slides/objects/arraylists/)
 *   [ArrayList Methods](https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html)
+
+### Slides
+
+*   [ArrayLists](https://wecancodeit.github.io/java-slides/objects/arraylists/)
 
 ## Day 2
 
