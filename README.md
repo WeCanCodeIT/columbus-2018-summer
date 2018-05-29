@@ -44,6 +44,14 @@ Career Services:
 *   Collections Overview (\*Iterables/Iterators)
 *   Lists
 *   Maps
+<<<<<<< HEAD
+=======
+
+Career Services:
+
+*   [LinkedIn Profile Workshop (Includes Homework Details)](https://github.com/WeCanCodeIT/columbus-2018-spring/blob/master/Career-Services/LinkedIn-Profile-Checklist.md)
+*   [Social Media Etiquette (Self Study)](https://github.com/WeCanCodeIT/columbus-2018-spring/blob/master/Career-Services/Social-Media-Etiquette-SelfStudy.md)
+>>>>>>> week-3
 
 ### Week 4
 
@@ -59,6 +67,14 @@ Career Services:
 *   Dependency Injection & Mockito
 *   HTML/Thymeleaf
 *   API Development
+<<<<<<< HEAD
+=======
+
+Career Services: Lunch 'n Learn Presentation with Jeremy Clark on TDD
+
+*   Getting Started with Open Source (Lunch 'n Learn Presentation with CoverMyMeds)
+*   [Additional Open Source Resources](https://github.com/WeCanCodeIT/columbus-2018-spring/blob/master/Career-Services/Open-Source-References.md)
+>>>>>>> week-3
 
 ### Week 6
 
@@ -66,17 +82,38 @@ Career Services:
 *   CSS Layouts
 *   Intro to JS/JS Testing
 *   AJAX
+<<<<<<< HEAD
+=======
+
+Career Services: Apex Systems: Resume Reviews on Friday
+
+*   [Informational Interviews via LinkedIn Messaging](https://github.com/WeCanCodeIT/columbus-2018-spring/blob/master/Career-Services/Informational-Interviews-via-LinkedIn-Messaging.md)
+>>>>>>> week-3
 
 ### Week 7
 
 *   Databases
 *   Persistence & MVC
 *   More API Development
+<<<<<<< HEAD
+=======
+
+Career Services:
+
+*   [Behavioral Interviews](https://github.com/WeCanCodeIT/columbus-2018-spring/blob/master/Career-Services/Behavioral-Interviews.md)
+>>>>>>> week-3
 
 ### Week 8
 
 *   Advanced CSS Layout Tools
 *   Advanced JS techniques
+<<<<<<< HEAD
+=======
+
+Career Services:
+
+*   [How to Talk About Projects](https://github.com/WeCanCodeIT/columbus-2018-spring/blob/master/Career-Services/HowToTalkAboutProjects.md)
+>>>>>>> week-3
 
 ### Week 9
 
