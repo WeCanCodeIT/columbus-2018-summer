@@ -41,6 +41,7 @@ Class not in session
 ### Activities
 
 *   [Map Exercises](https://wecancodeit.github.io/java-exercises/fundamentals-practice-problems/maps)
+*   [Bank Project](https://wecancodeit.github.io/java-exercises/bank-teller)
 *   Recommended Reading: Head First Java 533, 557,558, 567
 
 ### Slides
@@ -51,16 +52,11 @@ Class not in session
 
 ### Topics
 
-*   Continue working with Maps and the Java Collections Framework
-*   Develop and understanding of overloaded Constructors
+*   Continue working with ArrayLists, Maps, and the Java Collections Framework
 
 ### Activities
 
-*   [Bank Project](https://wecancodeit.github.io/java-exercises/bank-teller)
-
-### Slides
-
-*   [Maps](https://wecancodeit.github.io/java-slides/objects/maps/)
+*   Continue working on either of the bridge projects from this week.
 
 ## Day 5
 
