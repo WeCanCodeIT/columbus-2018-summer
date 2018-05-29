@@ -16,12 +16,12 @@ Class not in session
 
 ### Activities
 
+*   Recommended Reading: Head First Java 131-139, 156, 208, 211-212, 288-289
 *   Intro to ArrayLists
 *   Complete the practice problems on Slide 17
 *   [Let's Bake a Cake](https://wecancodeit.github.io/java-exercises/fundamentals-practice-problems/array-lists)
 *   [Cookie Order](https://wecancodeit.github.io/java-exercises/cookie-orders)
-*   [Create a Shopping Cart](https://wecancodeit.github.io/java-exercises/shopping-cart)
-*   Recommended Reading: Head First Java 131-139, 156, 208, 211-212, 288-289
+*   Stretch: [Create a Shopping Cart](https://wecancodeit.github.io/java-exercises/shopping-cart)
 
 ### References
 
