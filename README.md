@@ -45,6 +45,11 @@ Career Services:
 *   Lists
 *   Maps
 
+Career Services:
+
+*  In Class: What Are You Selling?
+*  Homework: Review [LinkedIn Slides](https://wecancodeit.github.io/SST-Slides/career-services/linkedin/)
+
 ### Week 4
 
 *   Dependency Injection/Spring
