@@ -47,7 +47,7 @@ Career Services:
 
 Career Services:
 
-*  In Class: What Are You Selling?
+*  In Class: [What Are You Selling?](https://wecancodeit.github.io/SST-Slides/career-services/whatareyouselling/)
 *  Homework: Review [LinkedIn Slides](https://wecancodeit.github.io/SST-Slides/career-services/linkedin/)
 
 ### Week 4
