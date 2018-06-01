@@ -60,6 +60,6 @@ Class not in session
 
 ## Day 5
 
-Weekly Graded Exercise: [Virtual Pet Shelter]('https://github.com/WeCanCodeIT/java-exercises/tree/master/virtual-pet-shelter')
+Weekly Graded Exercise: [Virtual Pet Shelter](https://github.com/WeCanCodeIT/java-exercises/tree/master/virtual-pet-shelter)
 
 Due Mon, 9:30 AM:
