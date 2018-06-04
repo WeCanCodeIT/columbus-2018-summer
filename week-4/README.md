@@ -13,7 +13,7 @@
 *   Begin Development of [High St. Hospital](https://wecancodeit.github.io/java-exercises/hospital)
 *   Recommended Reading: Head First Java pages 165-183
 
-### References
+### Slides
 
 *   [APIE](https://wecancodeit.github.io/java-slides/objects/a-pie/)
 
@@ -47,8 +47,6 @@
 
 *   Sorting items in an ArrayList using compareTo
 *   Recommended Reading: Head First Java Chapter 16: Collections with Generics
-
-### References
 
 ## Day 4
 
