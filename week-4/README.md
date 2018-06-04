@@ -7,7 +7,6 @@
 *   Students will use the concept of Inheritance to develop relationships and hierarchies between classes
 *   Students will be able to define APIE
 *   Students will test drive objects made through Inheritance
-*   Students will be able to define APIE by the end of the week
 
 ### Activities
 
@@ -30,6 +29,7 @@
 
 *   Complete the Polymorphism enhancement in the demo project along with me
 *   Continue Development of [High St. Hospital](https://wecancodeit.github.io/java-exercises/hospital)
+*   Introduce [Cooking Project](https://github.com/WeCanCodeIT/java-exercises/tree/master/cooking)
 *   Recommended Reading: Head First Java pages 183-196
 
 ### References
@@ -72,6 +72,6 @@
 
 ## Day 5
 
-Weekly Graded Exercise: [virtual-pets-amok](https://wecancodeit.github.io/java-exercises/virtual-pets-amok)
+Weekly Graded Exercise:
 
 Due Mon, 9:30 AM:
