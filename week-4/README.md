@@ -70,6 +70,6 @@
 
 ## Day 5
 
-Weekly Graded Exercise:
+Weekly Graded Exercise: [virtual-pets-amok](https://github.com/WeCanCodeIT/java-exercises/tree/master/virtual-pets-amok)
 
 Due Mon, 9:30 AM:
