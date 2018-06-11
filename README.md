@@ -58,12 +58,12 @@ Career Services:
 *   Encapsulation
 *   Build Automation with Gradle\*
 
-Career Services: 
+Career Services:
 
-*  [LinkedIn Slides](https://wecancodeit.github.io/SST-Slides/career-services/linkedin/#/)
-*  Marketing Yourself w/ WCCI Marketing Team
+*   [LinkedIn Slides](https://wecancodeit.github.io/SST-Slides/career-services/linkedin/#/)
+*   Marketing Yourself w/ WCCI Marketing Team
 
-### Week 5
+### [Week 5](./week-5/README.md)
 
 *   Spring
 *   Dependency Injection & Mockito
