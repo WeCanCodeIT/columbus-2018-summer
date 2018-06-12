@@ -10,7 +10,7 @@ Begin front end with HTML and introduction to HTTP
 
 [HTML: The Structure of the Internet](https://wecancodeit.github.io/java-slides/frontend/html/#/)
 
-### References
+### Resources
 
 *   [w3schools interactive HTML tutorial](https://www.w3schools.com/html/default.asp)
 *   [List of HTTP Status Codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
@@ -20,12 +20,17 @@ Begin front end with HTML and introduction to HTTP
 
 ### Topics
 
-Dependency Injection, Inversion of Control, Mockito, and the Spring Framework
+Dependency Injection & Inversion of Control, the Spring Framework, Introduction to MVC
 
 ### Slides
 
 *   [Dependency Injection](https://wecancodeit.github.io/java-slides/objects/dependency-injection/)
+
+### Resources
+
 *   [Spring MVC Getting Started Guide](https://wecancodeit.github.io/java-resources/spring/getting-started-guides/project-setup/)
+*   [Spring Initializr](http://start.spring.io/)
+*   [Create Hello World](https://spring.io/guides/gs/serving-web-content/)
 
 ### Exercise
 
@@ -35,14 +40,9 @@ Dependency Injection, Inversion of Control, Mockito, and the Spring Framework
 
 ### Topics
 
-Introduction to MVC
+More Spring Boot
 
-### Class Preparation
-
-*   [Spring Initializr](http://start.spring.io/)
-*   [Create Hello World](https://spring.io/guides/gs/serving-web-content/)
-
-### References
+### Resources
 
 *   Another getting started guide [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
 *   [Handling Form Submissions](https://spring.io/guides/gs/handling-form-submission/)
@@ -54,7 +54,7 @@ Introduction to MVC
 
 Introduction to Thymeleaf
 
-### References
+### Resources
 
 Lots of the Thymeleaf tutorial/docs are relevant, but here are some of the highlights:
 
