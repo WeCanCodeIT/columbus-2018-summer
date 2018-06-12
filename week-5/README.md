@@ -14,10 +14,7 @@ Begin front end with HTML and introduction to HTTP
 
 *   [w3schools interactive HTML tutorial](https://www.w3schools.com/html/default.asp)
 *   [List of HTTP Status Codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
-
-### Exercise
-
-[Courses (Static Version)](https://wecancodeit.github.io/java-exercises/courses)
+*   [Spring Framework Slides](https://wecancodeit.github.io/java-slides/spring/spring-boot/)
 
 ## Day 2
 
@@ -28,8 +25,11 @@ Dependency Injection, Inversion of Control, Mockito, and the Spring Framework
 ### Slides
 
 *   [Dependency Injection](https://wecancodeit.github.io/java-slides/objects/dependency-injection/)
-*   [Spring Framework Slides](https://wecancodeit.github.io/java-slides/spring/spring-boot/)
-    % TODO Add Mockito Slides
+*   [Spring MVC Getting Started Guide](https://wecancodeit.github.io/java-resources/spring/getting-started-guides/project-setup/)
+
+### Exercise
+
+[Courses (Static Version)](https://wecancodeit.github.io/java-exercises/courses)
 
 ## Day 3
 
@@ -39,7 +39,6 @@ Introduction to MVC
 
 ### Class Preparation
 
-*   [Spring MVC Getting Started Guide](https://wecancodeit.github.io/java-resources/spring/getting-started-guides/project-setup/)
 *   [Spring Initializr](http://start.spring.io/)
 *   [Create Hello World](https://spring.io/guides/gs/serving-web-content/)
 
