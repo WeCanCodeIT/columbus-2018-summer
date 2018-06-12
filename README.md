@@ -61,7 +61,7 @@ Career Services:
 Career Services:
 
 *   [LinkedIn Slides](https://wecancodeit.github.io/SST-Slides/career-services/linkedin/#/)
-*   Marketing Yourself w/ WCCI Marketing Team
+*   [Marketing Yourself w/ WCCI Marketing Team](https://docs.google.com/presentation/d/1K4JLzBtRF5qxW866YT-yQ5EIVSPuIjOZxXycUmEYrZk/edit?usp=sharing)
 
 ### [Week 5](./week-5/README.md)
 
