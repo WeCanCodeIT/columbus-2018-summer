@@ -70,6 +70,14 @@ Career Services:
 *   HTML/Thymeleaf
 *   API Development
 
+Career Services:
+
+*  Contributing to Open Source w/ Yash kulshrestha
+   *  [Presentation](https://yashdalfthegray.github.io/talks/oss)
+   *  [Presentation Notes](https://yashdalfthegray.github.io/talks/oss/notes)
+   *  [GitHub](https://github.com/YashdalfTheGray)
+   *  [Twitter](https://twitter.com/YashdalfTheGray)
+
 ### Week 6
 
 *   CSS Styling
