@@ -19,7 +19,6 @@
 ### Topics
 
 *   Students will review HTML and CSS design structures
-*   Students will be introduced to CSS Grid Layout in order to begin making more elegant designs
 
 ### Slides
 
