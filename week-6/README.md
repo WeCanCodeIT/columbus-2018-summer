@@ -4,59 +4,59 @@
 
 ### Topics
 
-*   Students will begin able to add styling to their HTML
+-   Students will begin able to add styling to their HTML
 
 ### Class Preparation
 
-*   [CSS Styling](https://wecancodeit.github.io/java-slides/frontend/css-styling/#/)
+-   [CSS Styling](https://wecancodeit.github.io/java-slides/frontend/css-styling/#/)
 
 ### References
 
-*   [MDN CSS Styling](https://developer.mozilla.org/en-US/docs/Web/CSS)
+-   [MDN CSS Styling](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ## Day 2
 
 ### Topics
 
-*   Students will review HTML and CSS design structures
+-   Students will review HTML and CSS design structures
 
 ### Slides
 
-*   [CSS Layouts](https://wecancodeit.github.io/java-slides/frontend/css-layouts-without-layout-tools)
+-   [CSS Layouts](https://wecancodeit.github.io/java-slides/frontend/css-layouts-without-layout-tools)
 
 ## Day 3
 
 ### Topics
 
-*   Intro to JavaScript
+-   Intro to JavaScript
 
 ### Slides
 
-*   [JavaScript](https://wecancodeit.github.io/java-slides/frontend/javascript)
-*   [JavaScript](https://wecancodeit.github.io/java-slides/frontend/javascript-testing)
+-   [JavaScript](https://wecancodeit.github.io/java-slides/frontend/javascript)
+-   [JavaScript](https://wecancodeit.github.io/java-slides/frontend/javascript-testing)
 
 ### References
 
-*   [MDN - JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript)
-*   [Karma](https://karma-runner.github.io/2.0/index.html)
-*   [Mocha](https://mochajs.org/)
+-   [MDN - JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript)
+-   [Karma](https://karma-runner.github.io/2.0/index.html)
+-   [Mocha](https://mochajs.org/)
 
 ## Day 4
 
 ### Topics
 
-*   AJAX
+-   AJAX
 
 ### Slides
 
-*   [JavaScript](https://wecancodeit.github.io/java-slides/frontend/ajax)
+-   [JavaScript](https://wecancodeit.github.io/java-slides/frontend/ajax)
 
 ### References
 
-*   [MDN - AJAX](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)
+-   [MDN - AJAX](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)
 
 ## Day 5
 
-Weekly Graded Exercise:
+Weekly Graded Exercise: [portfolio-project](https://github.com/WeCanCodeIT/java-exercises/tree/master/professional-portfolio)
 
 Due Mon, 9:30 AM
