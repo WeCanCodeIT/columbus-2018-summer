@@ -43,6 +43,7 @@
 ### Topics
 
 -   Database Entity Relationships
+-   Maybe some discussion on APIs and they're construction
 
 ### Class Preparation
 
