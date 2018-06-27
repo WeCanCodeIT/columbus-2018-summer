@@ -32,7 +32,7 @@
 
 ### Class Preparation
 
--   [Courses and Instructors](https://wecancodeit.github.io/java-exercises/jpa/courses-with-instructors)
+-   [Courses and Instructors](https://github.com/WeCanCodeIT/java-exercises/blob/master/jpa/courses-topics-textbooks.md)
 
 ### Slides
 
