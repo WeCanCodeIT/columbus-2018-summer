@@ -98,7 +98,7 @@ Career Services:
 
 Career Services:
 
-*  Behavioral Interviews
+*  [Behavioral Interviews](https://github.com/WeCanCodeIT/columbus-2018-summer/blob/master/Career-Services/Behavioral-Interviews.md)
 
 
 ### Week 8
