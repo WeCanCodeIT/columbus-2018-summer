@@ -55,6 +55,6 @@
 
 ## Day 5
 
-Weekly Graded Exercise:
+Weekly Graded Exercise: [reviews-site-fullstack](https://github.com/WeCanCodeIT/java-exercises/tree/full-time/reviews-site-fullstack) (Switch branch to `full-time`)
 
 Due Mon, 9:30 AM:
