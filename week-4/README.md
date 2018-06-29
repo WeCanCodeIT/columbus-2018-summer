@@ -13,7 +13,7 @@
 *   Begin Development of [High St. Hospital](https://wecancodeit.github.io/java-exercises/hospital)
 *   Recommended Reading: Head First Java pages 165-183
 
-### References
+### Slides
 
 *   [APIE](https://wecancodeit.github.io/java-slides/objects/a-pie/)
 
@@ -48,8 +48,6 @@
 *   Sorting items in an ArrayList using compareTo
 *   Recommended Reading: Head First Java Chapter 16: Collections with Generics
 
-### References
-
 ## Day 4
 
 ### Topics
@@ -72,6 +70,6 @@
 
 ## Day 5
 
-Weekly Graded Exercise:
+Weekly Graded Exercise: [virtual-pets-amok](https://github.com/WeCanCodeIT/java-exercises/tree/master/virtual-pets-amok)
 
 Due Mon, 9:30 AM:

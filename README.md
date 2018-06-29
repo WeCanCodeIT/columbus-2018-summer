@@ -58,12 +58,25 @@ Career Services:
 *   Encapsulation
 *   Build Automation with Gradle\*
 
-### Week 5
+Career Services:
+
+*   [LinkedIn Slides](https://wecancodeit.github.io/SST-Slides/career-services/linkedin/#/)
+*   [Marketing Yourself w/ WCCI Marketing Team](https://docs.google.com/presentation/d/1K4JLzBtRF5qxW866YT-yQ5EIVSPuIjOZxXycUmEYrZk/edit?usp=sharing)
+
+### [Week 5](./week-5/README.md)
 
 *   Spring
 *   Dependency Injection & Mockito
 *   HTML/Thymeleaf
 *   API Development
+
+Career Services:
+
+*  Contributing to Open Source w/ Yash kulshrestha
+   *  [Presentation](https://yashdalfthegray.github.io/talks/oss)
+   *  [Presentation Notes](https://yashdalfthegray.github.io/talks/oss/notes)
+   *  [GitHub](https://github.com/YashdalfTheGray)
+   *  [Twitter](https://twitter.com/YashdalfTheGray)
 
 ### Week 6
 
@@ -72,11 +85,21 @@ Career Services:
 *   Intro to JS/JS Testing
 *   AJAX
 
+Career Services:
+
+*  Diversity & Inclusion Discussion
+*  [Informational Interviews](https://wecancodeit.github.io/SST-Slides/career-services/informational-interview/#/)
+
 ### Week 7
 
 *   Databases
 *   Persistence & MVC
 *   More API Development
+
+Career Services:
+
+*  [Behavioral Interviews](https://github.com/WeCanCodeIT/columbus-2018-summer/blob/master/Career-Services/Behavioral-Interviews.md)
+
 
 ### Week 8
 

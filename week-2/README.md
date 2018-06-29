@@ -22,8 +22,11 @@
 
 ### References
 
-*   [Loops, Part 1 slides](https://wecancodeit.github.io/java-slides/fundamentals/loops-01/)
 *   [Oracle Java Tutorial, The while and do-while Statements](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/while.html)
+
+### Slides
+
+*   [Loops, Part 1 slides](https://wecancodeit.github.io/java-slides/fundamentals/loops-01/)
 
 ## Day 2
 
@@ -42,10 +45,13 @@
 
 ### References
 
-*   [For Loops slides](https://wecancodeit.github.io/java-slides/fundamentals/for-loops/)
-*   [Branching Statements](https://wecancodeit.github.io/java-slides/fundamentals/branching-statements/)
 *   [Oracle Java Tutorial, Branching Statements](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/branch.html)
 *   Java Branching Statements [w3resource](http://www.w3resource.com/java-tutorial/java-branching-statements.php)
+
+### Slides
+
+*   [For Loops slides](https://wecancodeit.github.io/java-slides/fundamentals/for-loops/)
+*   [Branching Statements](https://wecancodeit.github.io/java-slides/fundamentals/branching-statements/)
 
 ## Day 3
 
@@ -64,10 +70,12 @@
 
 ### References
 
-*   [Arrays slides](https://wecancodeit.github.io/java-slides/fundamentals/arrays/)
 *   [Arrays Student Guide](https://wecancodeit.github.io/java-resources/fundamentals/arrays/)
 *   [Oracle Java Tutorial, Arrays](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)
-*   [Constructors](https://wecancodeit.github.io/java-slides/objects/constructors/)
+
+### Slides
+
+*   [Arrays slides](https://wecancodeit.github.io/java-slides/fundamentals/arrays/)
 
 ## Day 4
 
@@ -87,13 +95,17 @@
 
 ### References
 
-*   [TDD](https://wecancodeit.github.io/java-slides/testing/tdd-intro/#/)
 *   [Gradle Scripts](https://github.com/WeCanCodeIT/gradle-scripts)
 *   [Uncle Bob's blog post about the three rules](http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd)
 *   Katas - [Clusters](https://wecancodeit.github.io/kata/beginner/clusters/) - [String Calculator](https://wecancodeit.github.io/kata/beginner/string-calculator/) - [Hank Putter and the Pernicious Pricing Procedure](https://wecancodeit.github.io/kata/hank-putter/) - [CodeKata](http://codekata.com/) - [codekatas.org](http://www.codekatas.org/) (videos) - [Coding Dojo Kata Catalogue](http://codingdojo.org/KataCatalogue/) - [LMGTFY: code katas](http://lmgtfy.com/?q=code+katas) :stuck_out_tongue_winking_eye:
 
+### Slides
+
+*   [Constructors](https://wecancodeit.github.io/java-slides/objects/constructors/)
+*   [TDD](https://wecancodeit.github.io/java-slides/testing/tdd-intro/#/)
+
 ## Day 5
 
-Weekly Graded Exercise: [Virtual Pet](https://wecancodeit.github.io/java-exercises/virtual-pet)
+Weekly Graded Exercise: [Virtual Pet](https://github.com/WeCanCodeIT/java-exercises/tree/master/virtual-pet)
 
 Due Monday, 9:30 AM: [Submission Link Coming Soon]
