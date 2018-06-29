@@ -4,70 +4,56 @@
 
 ### Topics
 
-* Students will be able to identify the differences between Java and Javascript
-* Students will be able to write Javascript in a text editor
+-   CSS Progressive Enhancement
+-   CSS Flexbox
 
-### Class Preparation
+### Slides
 
-* [Java vs JavaScript slides](https://wecancodeit.github.io/java-slides/web/java-vs-javascript/)
-* [Intro to JavaScript](https://wecancodeit.github.io/java-slides/frontend/javascript/#/)
+-   [Progressive Enhancement](https://wecancodeit.github.io/java-slides/frontend/css-progressive-enhancement/#/)
+-   [CSS Flexbox](https://wecancodeit.github.io/java-slides/frontend/css-flexbox/#/)
 
 ### References
 
-* [JavaScript Documentation](http://devdocs.io/javascript/)
-* [Master the JavaScript Interview: What's the Difference Between Class & Prototypal Inheritance?](https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9)
-* [A first splash into JavaScript @ MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/A_first_splash)
-* [Javascript30: 30 Day Vanilla JS Coding Challenge](https://javascript30.com/)
+-   [Resilient CSS with Jen Simmons](https://www.youtube.com/playlist?list=PLbSquHt1VCf1kpv9WRGMCA9_Nn4vCLZ9Y)
+-   [MDN Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
+-   [Flexbox Zombies](https://mastery.games/p/flexbox-zombies)
 
 ## Day 2
 
 ### Topics
 
-* Introduction to JQuery
+-   CSS Grid
 
-### Class Preparation
+### Slides
 
-* [jQuery Slide Deck](https://wecancodeit.github.io/java-slides/frontend/jquery/#/)
+-   [CSS Grid](https://wecancodeit.github.io/java-slides/frontend/css-grid/#/)
 
 ### References
 
-* [Try jQuery (jQuery Tutorial)](http://try.jquery.com/)
-* [jQuery Learning Center](http://learn.jquery.com/)
-* [jQuery](https://jquery.com/)
-* [jQuery API documentation](http://api.jquery.com/)
+-   [CSS Grid Garden](http://cssgridgarden.com/)
+-   [MDN Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
 
 ## Day 3
 
-### Topics
-
-* Students will be able to complete Unit Testing in JavaScript with Jasmine
-* Students will perform DOM manipulation
-
-### Class Preparation
-
-### References
-
-* [Jasmine Introduction](https://jasmine.github.io/2.0/introduction.html)
+### Fourth of July **No Class**
 
 ## Day 4
 
 ### Topics
 
-* ES6
-* Jasmine Testing
+-   ES2015
 
-### Class Preparation
+### Slides
 
-* [Intro to ES6 slide deck](https://wecancodeit.github.io/java-slides/frontend/es2015/#/)
-* [Jasmine Testing for JavaScript](https://wecancodeit.github.io/java-slides/frontend/javascript-testing/#/)
+-   [Intro to ES6 slide deck](https://wecancodeit.github.io/java-slides/frontend/es2015/#/)
 
 ### References
 
+-   [ES2015](https://developers.google.com/web/shows/ttt/series-2/es2015)
+-   [Javascript30: 30 Day Vanilla JS Coding Challenge](https://javascript30.com/)
+
 ## Day 5
 
-* [Jasmine Testing for JavaScript](https://wecancodeit.github.io/java-slides/frontend/javascript-testing/#/)
-* [AJAX](https://wecancodeit.github.io/java-slides/frontend/ajax/#/)
-
-Weekly Graded Exercise: [Portfolio Project with JS](https://wecancodeit.github.io/java-exercises/js-professional-portfolio)
+Weekly Graded Exercise:
 
 Due Mon, 9:30 AM:
