@@ -85,11 +85,21 @@ Career Services:
 *   Intro to JS/JS Testing
 *   AJAX
 
+Career Services:
+
+*  Diversity & Inclusion Discussion
+*  [Informational Interviews](https://wecancodeit.github.io/SST-Slides/career-services/informational-interview/#/)
+
 ### Week 7
 
 *   Databases
 *   Persistence & MVC
 *   More API Development
+
+Career Services:
+
+*  [Behavioral Interviews](https://github.com/WeCanCodeIT/columbus-2018-summer/blob/master/Career-Services/Behavioral-Interviews.md)
+
 
 ### Week 8
 
