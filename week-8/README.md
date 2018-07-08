@@ -54,6 +54,6 @@
 
 ## Day 5
 
-Weekly Graded Exercise:
+Weekly Graded Exercise: [Personal Portfolio Iteration 2](https://github.com/WeCanCodeIT/java-exercises/tree/master/js-professional-portfolio)
 
 Due Mon, 9:30 AM:
