@@ -26,7 +26,10 @@
 ### References
 
 *   The Eclipse help system (Help->Help Contents) from within Eclipse
-*   [Hello, World slides](https://wecancodeit.github.io/java-slides/fundamentals/hello-world/)
+
+### Slides
+
+*   [Hello, World](https://wecancodeit.github.io/java-slides/fundamentals/hello-world/)
 
 ## Day 2
 
@@ -46,8 +49,11 @@
 ### References
 
 *   [Types and Expressions Student Guide](https://wecancodeit.github.io/java-resources/fundamentals/types-and-expressions/)
-*   [Basic Types and Variables Slides](https://wecancodeit.github.io/java-slides/fundamentals/basic-types-and-variables/)
-*   [Operators and Expressions Slides (with Problems)](https://wecancodeit.github.io/java-slides/fundamentals/operators-and-expressions/)
+
+### Slides
+
+*   [Basic Types and Variables](https://wecancodeit.github.io/java-slides/fundamentals/basic-types-and-variables/)
+*   [Operators and Expressions](https://wecancodeit.github.io/java-slides/fundamentals/operators-and-expressions/)
 
 ## Day 3
 
@@ -67,10 +73,13 @@
 ### References
 
 *   [Conditionals Student Guide](https://wecancodeit.github.io/java-resources/fundamentals/conditionals-and-user-input/)
-*   [Conditionals slides](https://wecancodeit.github.io/java-slides/fundamentals/conditionals/)
-*   [Reading Console Input slides](https://wecancodeit.github.io/java-slides/fundamentals/reading-console-input/)
 *   [Oracle Java Tutorial, The if-then and if-then-else Statements](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/if.html)
 *   [Oracle Java Tutorial, The switch Statement](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/switch.html)
+
+### Slides
+
+*   [Conditionals](https://wecancodeit.github.io/java-slides/fundamentals/conditionals/)
+*   [Reading Console Input slides](https://wecancodeit.github.io/java-slides/fundamentals/reading-console-input/)
 
 ## Day 4
 
@@ -91,9 +100,12 @@
 
 ### References
 
-*   [Strings slides](https://wecancodeit.github.io/java-slides/fundamentals/strings/)
 *   [Strings Student Guide](https://wecancodeit.github.io/java-resources/fundamentals/strings/)
 *   [Git Bash commands cheat sheet (work in progress)](https://wecancodeit.github.io/java-resources/bash/)
+
+### Slides
+
+*   [Strings](https://wecancodeit.github.io/java-slides/fundamentals/strings/)
 
 ## Day 5
 
