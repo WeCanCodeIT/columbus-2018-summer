@@ -27,6 +27,14 @@
 -   [REST Getting Started Guide](https://spring.io/guides/gs/rest-service/)
 -   [Tutorial: Building REST Services with Spring](https://spring.io/guides/tutorials/bookmarks/)
 
+### Slides
+
+-   [JavaScript](https://wecancodeit.github.io/java-slides/frontend/ajax)
+
+### References
+
+-   [MDN - AJAX](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)
+
 ## Day 3/4
 
 ### Topics
