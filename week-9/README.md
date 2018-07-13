@@ -53,6 +53,6 @@
 
 ## Day 5
 
-Weekly Graded Exercise:
+Weekly Graded Exercise: [reviews-site-iteration-3](https://github.com/WeCanCodeIT/java-exercises/tree/master/reviews-site-iteration-3)
 
 Due Mon, 9:30 AM:
